@@ -1,3 +1,5 @@
+# 风雨阁 Storm Pavilion 《服务条款及最终用户许可协议》
+
 阁下您好！本文档全称《风雨阁 Storm Pavilion <服务条款及最终用户许可协议>》（以下简称“ TOS-EULA ”）。风雨阁 Storm Pavilion 非常注重规范化的管理，所以风雨阁 Storm Pavilion 需要编写 TOS-EULA 来规范 风雨阁 Storm Pavilion 运行。
 
 以下本文档所用代指词释意。
