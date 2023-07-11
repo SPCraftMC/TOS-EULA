@@ -87,3 +87,5 @@ SPCraftMC 的主要内容来自《 Minecraft：Java 版》，尽管 SPCraftMC �
 附：
 - [《 Minecraft EULA 》(最终用户许可协议) - https://www.minecraft.net/eula](https://www.minecraft.net/eula)
 - [StarSkin服务条款 - https://discuss.star-skin.cn/d/3-starskin-discuss-fu-wu-tiao-kuan](https://discuss.star-skin.cn/d/3-starskin-discuss-fu-wu-tiao-kuan)
+
+下载PDF：[风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf](/风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf)
