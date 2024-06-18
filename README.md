@@ -46,7 +46,7 @@ SPCraftMC 非常注重您的隐私权力/权利。根据 SPCraftMC 运行需要�
 
 **阁下在 SPCraftMC 游玩，即代表阁下同意 TOS-EULA** 。TOS-EULA 可能会根据实际情况做出若干调整，SPCraftMC 有权在不通知阁下的情况下修改或删除本条款/协议。当然，如本条款/协议有任何调整，SPCraftMC 一般都会在调整后通知阁下。请注意，“通知”指的是发布通告信息，而不是向阁下单独发送（尽管 SPCraftMC 可能向阁下单独发送）。
 
-阁下在游玩时造成的任何道德/法律/社会舆论后果，**均与 SPCraftMC 无关**。如阁下确实造成了法律后果， SPCraftMC 有权向阁下/公职人员提供所收集的数据。
+阁下在游玩时造成的任何**道德/法律/社会舆论**后果，**均与 SPCraftMC 无关**。如阁下确实造成了法律后果， SPCraftMC 有权向阁下/公职人员提供所收集的数据。
 
 ### 2. 关于法律条款
 
@@ -58,7 +58,7 @@ SPCraftMC 非常注重您的隐私权力/权利。根据 SPCraftMC 运行需要�
 
 ### 3. 网络资产声明
 
-SPCraftMC 所注册占有域名，及其他可能涉及并由 SPCraftMC 开设者注册占有域名，所有权由 XM‘s NetWork 所有，最终所有权归上级域名注册管理机构所有。
+SPCraftMC 所注册占有域名，及其他可能涉及并由 SPCraftMC 开设者注册占有域名，所有权由 SPCraftMC Team 所有，最终所有权归上级域名注册管理机构所有。
 
 阁下在游玩时所产生的数据，由 SPCraftMC 及阁下共同所有。其中，这些资产由 SPCraftMC 保留所有权利，并拥有对这些数据的解释权及修改/删除权利。
 
@@ -75,7 +75,10 @@ SPCraftMC 不会主动公开阁下的隐私数据资产，除非阁下要求 SPC
 SPCraftMC 的主要内容来自《 Minecraft：Java 版》，尽管 SPCraftMC 为其他 Minecraft 版本提供支持，但这种支持是**有限的**，无法做到100%的完美。
 
 以下是我们使用的兼容性套件：
+- ViaVersion：用于提供跨《Minecraft：Java 版》游戏版本提供兼容性支持，并为其他功能提供Mappings。
+	- ViaBackwards：用于提供跨《Minecraft：Java 版》游戏版本提供兼容性支持。
 - Geyser：用于向《Minecraft：基岩版》提供游戏服务支持。
+	- floodgate: 用于向《Minecraft：基岩版》提供更好的游戏服务支持。
 - Vivecraft-Velocity-Expansion：用于向 VR 版玩家提供支持。
 
 ### 6. 合作声明
@@ -84,7 +87,7 @@ SPCraftMC 与**其他服务器**建立合作关系，以求共同发展。 SPCra
 
 ### 7. 社区使用规范
 
-SPCraftMC 在 QQ 创建的社区（群，频道）由 SPCraftMC 管理。阁下在使用社区时，应当遵守 SPCraftMC 所发布的社区规范及服务提供商相关协议。**如阁下违反了相关条款，可能要承担相应的责任。**
+SPCraftMC 创建的社区（包括不限于群，频道等）由 SPCraftMC 管理。阁下在使用社区时，应当遵守 SPCraftMC 所发布的社区规范及服务提供商相关协议。**如阁下违反了相关条款，可能要承担相应的责任。**
 
 ## 后记
 
@@ -93,7 +96,6 @@ SPCraftMC 在 QQ 创建的社区（群，频道）由 SPCraftMC 管理。阁下�
 
 附：
 - [《 Minecraft EULA 》(最终用户许可协议) - https://www.minecraft.net/eula](https://www.minecraft.net/eula)
-- [StarSkin 论坛 服务条款 - StarSkin 论坛 - https://flarum.star-skin.cn/d/2-starskin-lun-tan-fu-wu-tiao-kuan](https://flarum.star-skin.cn/d/2-starskin-lun-tan-fu-wu-tiao-kuan)
 - [红石皮肤站用户服务协议  - https://eula.mcskin.cn](https://eula.mcskin.cn/)
 
 下载PDF：[风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf](/风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf)
