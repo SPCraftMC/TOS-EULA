@@ -96,6 +96,6 @@ SPCraftMC 创建的社区（包括不限于群，频道等）由 SPCraftMC 管�
 
 附：
 - [《 Minecraft EULA 》(最终用户许可协议) - https://www.minecraft.net/eula](https://www.minecraft.net/eula)
-- [红石皮肤站用户服务协议  - https://eula.mcskin.cn](https://eula.mcskin.cn/)
+- [红石皮肤站用户服务协议  - https://eula.mcskin.com.cn](https://eula.mcskin.com.cn/)
 
 下载PDF：[风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf](/风雨阁%20Storm%20Pavilion%20《服务条款及最终用户许可协议》.pdf)
